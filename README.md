@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Violet
-- 👀 I’m interested in Python, machine learning and data
-- 🌱 I’m currently learning a lot of things
+- 👋 Hi
+- 👀 Python
+- 🌱 
 
 <!---
 violet-fresh4cast/violet-fresh4cast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
